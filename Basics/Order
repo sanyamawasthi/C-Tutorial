@@ -1,0 +1,59 @@
+# Order to learn
+
+## You need to open the files in the following order and understand the code as written in the comment section
+
+## Basic : 
+
+1) Hello_World.cpp
+
+2) Hello_World_new.cpp
+
+3) input.cpp
+
+4) cctype Module usage for character classification - classification_of_characters.cpp
+
+5) Way to know data type of a variable - typeinfo.cpp
+
+6) if_else.cpp -> swapping.cpp
+
+7) switch.cpp
+
+8) ternary_operator.cpp
+
+9) increment_decrement.cpp
+
+10) for_nesting.cpp -> more_control_variables_in_for.cpp -> triangle_matrix.cpp
+
+11) while_loop.cpp -> loop_termination_within_loop.cpp -> repeating_computation_using_while.cpp
+
+12) scope.cpp
+
+13) continue_break_statement.cpp
+
+14) scientific_format.cpp
+
+15) constant_variable.cpp -> constant-variable.cpp
+
+16) goto.cpp : goto keyword
+
+17) initializing_array.cpp : Introduction to arrays and way to declare and define them
+
+18) print_read_array.cpp
+
+19) zero_trail_in_array.cpp 
+
+20) multidimensional_array.cpp -> three_dimensional_array.cpp
+
+21) enum_n_array.cpp
+
+22) defining_function.cpp -> swap_function.cpp
+
+23) void_function.cpp
+
+24) scope_in_functions.cpp
+
+25) default_para.cpp
+
+26) function_overloading.cpp
+
+Rest can be Done as Wish
